@@ -1,0 +1,19 @@
+#heading {
+    color: blue;
+    font-weight: bold;
+}
+#hfour {
+    color: goldenrod;
+    font-weight: bold;
+    font-family: cursive;
+}
+body {
+    background-color: green;
+}
+#copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+}
